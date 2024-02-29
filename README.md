@@ -1,3 +1,5 @@
 
 
-- 👋 Hi, I’m Glory.I’m interested in front-end development. I'm currently learning Javascript,HTML and CSS.
+- 👋 Hi, I’m Glory P.Mathai.
+- I’m interested in front-end development.
+- I'm currently learning Java.

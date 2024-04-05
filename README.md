@@ -1,5 +1,5 @@
 
 
 - 👋 Hi, I’m Glory P.Mathai.
-- I’m interested in front-end development.
+- I’m interested in full-stack development.
 - I'm currently learning Java.
